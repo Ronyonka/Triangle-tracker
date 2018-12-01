@@ -1,6 +1,6 @@
-var a = getElementById('avalue').submit();
-var b = getElementById('bvalue').submit();
-var c = getElementById('cvalue').submit();
+var a = parseInt(prompt("Enter A value"));
+var b = parseInt(prompt("Enter B value"));
+var c = parseInt(prompt("Enter C value"));
 
 
 
