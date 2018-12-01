@@ -7,14 +7,24 @@
   <body>
     <h1>Triangle Tracker</h1>
     <h3>This is a Triangle Tracker</h3>
-    <form class="" action="index.html" method="post">
-      <label for="aValue">Enter Value</label><br><br>
-      <input type="number" name="A" id="avalue">
-      <br><br>
-      <input type="number" name="B" id="bvalue"><br><br>
-      <input type="number" name="C" id="cvalue"><br><br>
-      <button type="button" name="button">Submit</button>
-    </form>
+    <div class="form">
+      <form>
+        <div class="form-group">
+          <label for="avalue">Enter Side A:</label>
+          <input type="number" name="A" id="avalue">
+        </div>
+        <div class="form-group">
+          <label for="bvalue">Enter Side B:</label>
+          <input type="number" name="B" id="bvalue">
+        </div>
+        <div class="form-group">
+          <label for="cvalue">Enter Side C:</label>
+          <input type="number" name="C" id="cvalue">
+        </div>
+        <button type="submit" name="button">Submit</button>
+      </form>
+    </div>
+
 
     <script src="js/script.js"></script>
   </body>
