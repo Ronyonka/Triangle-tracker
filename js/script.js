@@ -1,6 +1,6 @@
-var a = parseInt(getElementById('avalue')).value;
-var b = parseInt(getElementById('bvalue')).value;
-var c = parseInt(getElementById('cvalue')).value;
+var a = parseInt(getElementById('avalue')).value();
+var b = parseInt(getElementById('bvalue')).value();
+var c = parseInt(getElementById('cvalue')).value();
 
 var triangle = function(a, b, c){if (a+b>c && b+c>a && c+a>b){
     return triangle;
