@@ -12,6 +12,6 @@ function triangleTracker(){
       alert("You have discovered a scalene triangle");
     }
   }else{
-    alert("This is a bermuda triangle i.e it is none existent")
+    alert("This is a bermuda triangle i.e it is none existent");
   }
 }
