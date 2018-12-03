@@ -1,5 +1,14 @@
+
 body{
   background-image: url(../img/pyramid.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+h1{
+  font-family: impact;
+  color: #c9af98;
+  font-size: 68px;
+  text-align: center;
+
 }
