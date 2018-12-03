@@ -23,6 +23,7 @@ form{
   font-size: 16px;
   font-weight: bold;
 }
+
 button{
   background-color: #c9af98;
   border: none;
@@ -31,4 +32,10 @@ button{
   font-weight: bold;
   height: 35px;
   width: auto;
+}
+h2{
+  float: right;
+  width: 40%;
+  text-align: right;
+  font-size: 42px;
 }
