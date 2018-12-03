@@ -19,5 +19,16 @@ h3{
 }
 form{
   font-family: Garamond;
-  color: #ed8a63;
+  color: #c9af98;
+  font-size: 16px;
+  font-weight: bold;
+}
+button{
+  background-color: #c9af98;
+  border: none;
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  height: 35px;
+  width: auto;
 }
