@@ -34,8 +34,10 @@ button{
   width: auto;
 }
 h2{
+  color: #000;
   float: right;
   width: 40%;
-  text-align: right;
+  text-align: justify;
   font-size: 42px;
+  padding-bottom: 100px;
 }
