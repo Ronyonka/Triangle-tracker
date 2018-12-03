@@ -2,22 +2,42 @@
 #### Triangle Tracker, December 3 2018
 #### By **Ron Onyonka**
 ## Description
-The triangle tracker is a program that is able to take three different estimated values/measurements of a side of a triangle and tell if those measurments will form a triangle or not. If it does form a triangle it can also
+The triangle tracker is a program that is able to take three different estimated values/measurements of a side of a triangle and tell if those measurements will form a triangle or not. If it does form a triangle it can also
 tell you what type of triangle it forms.
 Try it out.
 ## Setup/Installation Requirements
-* Have a basic working k
 * HTML
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+* CSS
+* JavaScript
+![image](https://github.com/Ronyonka/Triangle-tracker/blob/master/img/ttt.png)
+To run the app you should input values for three sides of the triangle you want to query. Once you add click the submit button and the result should appear in the bottom right corner of the screen.
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+There are currently no known bugs. if you encounter one please contact me at rononyonka@gmail.com
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
-## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+I Used HTML, JavaScript and CSS. Using JavaScript I was able to get user input from HTML forms.
+I also utilized jquery to display results on HTML.
+## BDD
+I began the project by recognizing that I needed to make an app that would take user input of
+three different values and display a result. The first step was to create a form with input tags
+to take the User input. For this I needed Three input elements and a button to submit to call a JavaScript function. I then used JS to check if the values formed a triangle or not, and if they did, what sort of triangle finally I addeda query to display the result on HTML. I then added styling.
+##Contact Information
+Reach me on email rononyonka@gmail.com
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) 2018 **Ron Onyonka**
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
