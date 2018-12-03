@@ -4,7 +4,7 @@
 ## Description
 The triangle tracker is a program that is able to take three different estimated values/measurements of a side of a triangle and tell if those measurements will form a triangle or not. If it does form a triangle it can also
 tell you what type of triangle it forms.
-Try it out.
+Try it out.https://ronyonka.github.io/Triangle-tracker/
 ## Setup/Installation Requirements
 * HTML
 * CSS
@@ -16,12 +16,12 @@ There are currently no known bugs. if you encounter one please contact me at ron
 ## Technologies Used
 I Used HTML, JavaScript and CSS. Using JavaScript I was able to get user input from HTML forms.
 I also utilized jquery to display results on HTML.
+## Contact Information
+reach me on email rononyonka@gm
 ## BDD
 I began the project by recognizing that I needed to make an app that would take user input of
 three different values and display a result. The first step was to create a form with input tags
-to take the User input. For this I needed Three input elements and a button to submit to call a JavaScript function. I then used JS to check if the values formed a triangle or not, and if they did, what sort of triangle finally I addeda query to display the result on HTML. I then added styling.
-## Contact Information
-reach me on email rononyonka@gmail.com
+to take the User input. For this I needed Three input elements and a button to submit to call a JavaScript function. I then used JS to check if the values formed a triangle or not, and if they did, what sort of triangle finally I added a query to display the result on HTML. I then added styling.
 ### License
 Copyright (c) 2018 **Ron Onyonka**
 Permission is hereby granted, free of charge, to any person obtaining a copy
