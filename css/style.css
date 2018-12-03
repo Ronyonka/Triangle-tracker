@@ -4,11 +4,20 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
 }
-
 h1{
+  font-size: 68px;
+}
+h3{
+  font-size: 24px;
+}
+.header{
   font-family: impact;
   color: #c9af98;
-  font-size: 68px;
   text-align: center;
-
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+form{
+  font-family: Garamond;
+  color: #ed8a63;
 }
