@@ -17,7 +17,7 @@ There are currently no known bugs. if you encounter one please contact me at ron
 I Used HTML, JavaScript and CSS. Using JavaScript I was able to get user input from HTML forms.
 I also utilized jquery to display results on HTML.
 ## Contact Information
-reach me on email rononyonka@gm
+reach me on email rononyonka@gmail.com
 ## BDD
 I began the project by recognizing that I needed to make an app that would take user input of
 three different values and display a result. The first step was to create a form with input tags
