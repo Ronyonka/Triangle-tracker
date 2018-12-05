@@ -1,30 +1,33 @@
-
-body{
+body {
   background-image: url(../img/pyramid.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
-h1{
+
+h1 {
   font-size: 68px;
 }
-h3{
+
+h3 {
   font-size: 24px;
 }
-.header{
+
+.header {
   font-family: impact;
   color: #c9af98;
   text-align: center;
   padding-top: 100px;
   padding-bottom: 50px;
 }
-form{
+
+form {
   font-family: Garamond;
   color: #c9af98;
   font-size: 16px;
   font-weight: bold;
 }
 
-button{
+button {
   background-color: #c9af98;
   border: none;
   color: #fff;
@@ -33,7 +36,8 @@ button{
   height: 35px;
   width: auto;
 }
-#results{
+
+#results {
   color: #000;
   float: right;
   width: 40%;
